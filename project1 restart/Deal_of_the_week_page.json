@@ -1,0 +1,236 @@
+[
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40221136_5-indisecrets-organic-wheatgrass-powder.jpg?tr=w-828,q=80",
+        "discount_percentage": "34% OFF",
+        "company_name": "IndiSecrets",
+        "product_name": "Organic Wheatgrass Powder",
+        "description": "75 g",
+        "new_price": "₹99",
+        "old_price": "₹149"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40306740_3-margo-neem-naturals-almond-oil-rose.jpg?tr=w-828,q=80",
+        "discount": "₹18 OFF",
+        "company_name": "Margo",
+        "product_name": "Neem Naturals Almond Oil & Rose",
+        "description": "100 g - (Buy 4 Get 1 Free)",
+        "ratings": "5",
+        "new_price": "₹162",
+        "old_price": "₹180"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/272268_4-yardley-perfumed-deodorant-body-spray-lace-satin-women.jpg?tr=w-828,q=80",
+        "company_name": "Yardley",
+        "product_name": "Perfumed Deodorant Body Spray - Lace Satin (Women)",
+        "description": "150 ml",
+        "new_price": "₹199"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40248926_4-nestle-choco-mocha-flavoured-milk-chocolate.jpg?tr=w-828,q=80",
+        "discount_percentage": "11% OFF",
+        "company_name": "Nescafe",
+        "product_name": "Choco Mocha Cold Coffee - Flavoured Milk, Ready To Drink",
+        "description": "180 ml - Tetra Pack",
+        "ratings": "4.2",
+        "new_price": "₹40",
+        "old_price": "₹45"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40129632_4-nescafe-ready-to-drink-coffee-flavoured-milk-intense-cappuccino.jpg?tr=w-828,q=80",
+        "discount_percentage": "7% OFF",
+        "company_name": "Nescafe",
+        "product_name": "Intense Coffee & Milk Beverage Flavoured Milk - Cappuccino Flavour",
+        "description": "180 ml - Can",
+        "ratings": "3.9",
+        "new_price": "₹65",
+        "old_price": "₹70"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/100405167_4-go-cheese-slices.jpg?tr=w-828,q=80",
+        "discount_percentage": "30% OFF",
+        "company_name": "Go",
+        "product_name": "Cheese Slice - Plain, Made from Cow's Milk",
+        "description": "476 g - (28 Slices)",
+        "ratings": "4.1",
+        "new_price": "₹339.5",
+        "old_price": "₹485"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40055548_5-fresho-signature-biscotti-almond.jpg?tr=w-828,q=80",
+        "discount_percentage": "22% OFF",
+        "company_name": "Fresho Signature",
+        "product_name": "Biscotti - Almond",
+        "description": "150 g",
+        "ratings": "3.5",
+        "new_price": "₹139",
+        "old_price": "₹179"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40300867_1-hangyo-creamy-vanilla-ice-cream.jpg?tr=w-828,q=80",
+        "company_name": "Hangyo",
+        "product_name": "Creamy Vanilla Ice Cream",
+        "description": "1 L - Tub",
+        "new_price": "₹240"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40300868_1-hangyo-rajbhog-ice-cream.jpg?tr=w-828,q=80",
+        "company_name": "Hangyo",
+        "product_name": "Rajbhog Ice Cream",
+        "ratings": "4.4",
+        "description": "1 L - Tub",
+        "new_price": "₹330"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40273119_1-president-cheddar-cheese-cubes-processed-premium.jpg?tr=w-828,q=80",
+        "company_name": "PRESIDENT",
+        "product_name": "Cheddar Cheese Cubes - Processed, Premium",
+        "ratings": "4.7",
+        "description": "200 g",
+        "new_price": "₹175"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40210771_2-britannia-mozzarella-cheese-diced.jpg?tr=w-828,q=80",
+        "discount": "₹63 OFF",
+        "company_name": "Britannia",
+        "product_name": "The Laughing Cow Mozzarella Cheese - Diced",
+        "ratings": "4.3",
+        "description": "1 kg - Pouch",
+        "new_price": "₹562.5",
+        "old_price": "₹625"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/182203_3-savlon-antiseptic-disinfectant-liquid.jpg?tr=w-828,q=80",
+        "discount_percentage": "5% OFF",
+        "company_name": "Savlon",
+        "product_name": "Antiseptic - Disinfectant Liquid",
+        "ratings": "4.2",
+        "description": "50 ml - Bottle",
+        "new_price": "₹23.75",
+        "old_price": "₹25"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/236283_4-gillette-foam-shave-lathers-quickly-hydrates-regular.jpg?tr=w-828,q=80",
+        "discount": "₹24 OFF",
+        "company_name": "Gillette",
+        "product_name": "Foam Shave - Lathers Quickly & Hydrates, Regular",
+        "ratings": "4.3",
+        "description": "418 g",
+        "new_price": "₹225",
+        "old_price": "₹249",
+        "special_offer": "Get it for ₹213.75!"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/20006242_2-colgate-toothbrush-zigzag-soft-bristles.jpg?tr=w-828,q=80",
+        "company_name": "Colgate",
+        "product_name": "Toothbrush - ZigZag, Soft Bristles",
+        "ratings": "4.2",
+        "description": "1 pc",
+        "new_price": "₹35"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40306739_4-margo-neem-naturals-aloe-vera-jasmine.jpg?tr=w-828,q=80",
+        "discount_percentage": "7% OFF",
+        "company_name": "Margo",
+        "product_name": "Neem Naturals - Aloe Vera & Jasmine",
+        "ratings": "4.5",
+        "description": "100 g",
+        "new_price": "₹39.06",
+        "old_price": "₹42"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40305355_1-fiama-happy-naturals-shower-gel-yuzu-bergamot-with-97-natural-origin-content-skin-conditioners.jpg?tr=w-828,q=80",
+        "discount_percentage": "30% OFF",
+        "company_name": "Fiama",
+        "product_name": "Happy Naturals Yuzu & Bergamot Fragrance Shower Gel",
+        "ratings": "5",
+        "description": "500 ml",
+        "new_price": "₹349.3",
+        "old_price": "₹499"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40221136_5-indisecrets-organic-wheatgrass-powder.jpg?tr=w-828,q=80",
+        "discount_percentage": "34% OFF",
+        "company_name": "IndiSecrets",
+        "product_name": "Organic Wheatgrass Powder",
+        "description": "75 g",
+        "new_price": "₹99",
+        "old_price": "₹149"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40306740_3-margo-neem-naturals-almond-oil-rose.jpg?tr=w-828,q=80",
+        "discount": "₹18 OFF",
+        "company_name": "Margo",
+        "product_name": "Neem Naturals Almond Oil & Rose",
+        "description": "100 g - (Buy 4 Get 1 Free",
+        "ratings": "5",
+        "new_price": "₹162",
+        "old_price": "₹180"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/272268_4-yardley-perfumed-deodorant-body-spray-lace-satin-women.jpg?tr=w-828,q=80",
+        "company_name": "Yardley",
+        "product_name": "Perfumed Deodorant Body Spray - Lace Satin (Women)",
+        "description": "150 ml",
+        "new_price": "₹199"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40128988_5-real-fruit-power-juice-masala-pomegranate.jpg?tr=w-828,q=80",
+        "discount_percentage": "50% OFF",
+        "company_name": "Real",
+        "product_name": "Fruit Power Juice - Masala Pomegranate",
+        "ratings": "3.9",
+        "description": "1 L",
+        "new_price": "₹70",
+        "old_price": "₹140"
+    },
+    
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40311186_1-borecha-icey-rose-vanilla-sparkling-iced-tea.jpg?tr=w-828,q=80",
+        "company_name": "Borecha",
+        "product_name": "Icey Strawberry Lemonade Sparkling Iced Tea",
+        "description": "330 ml - Can",
+        "new_price": "₹99"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40311184_1-borecha-icey-strawberry-lemonade-sparkling-iced-tea.jpg?tr=w-828,q=80",
+        "company_name": "Borecha",
+        "product_name": "Icey Lemon Ginger Sparkling Iced Tea",
+        "description": "330 ml - Can",
+        "new_price": "₹99"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40314645_2-tetley-premium-black-leaf-tea-with-added-long-leaves.jpg?tr=w-828,q=80",
+        "company_name": "Tetley",
+        "product_name": "Premium Black Leaf Tea",
+        "ratings": "4.7",
+        "description": "250 g",
+        "new_price": "₹230"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40019291_1-bindu-packaged-drinking-water.jpg?tr=w-828,q=80",
+        "company_name": "Bindu",
+        "product_name": "Packaged Drinking Water",
+        "description": "1 L - Bottle",
+        "new_price": "₹20"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40314899_6-tetley-black-tea-digest-chai-loose-leaf-flavoured-fennel-cardamom-black-pepper.jpg?tr=w-828,q=80",
+        "discount_percentage": "20% OFF",
+        "company_name": "Tetley",
+        "product_name": "Digest Chai Flavoured Black Tea - With Prebiotic Fibre",
+        "ratings": "4.5",
+        "description": "200 g",
+        "new_price": "₹160",
+        "old_price": "₹200"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40298062_1-dash-of-rcb-pink-paloma-cocktail-mixer-non-alcoholic-fruit-beverage.jpg?tr=w-828,q=80",
+        "company_name": "Dash of RCB",
+        "product_name": "Pink Paloma Cocktail Mixer - Non-Alcoholic Fruit Beverage",
+        "ratings": "5",
+        "description": "250 ml - Bottle",
+        "new_price": "₹99"
+    }
+    
+    ]
+    

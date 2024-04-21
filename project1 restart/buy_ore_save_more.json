@@ -1,0 +1,104 @@
+[
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40178581_10-gillette-mach-3-bladed-shaving-cartridgesrazor-with-lubrication-strip-protects-skin.jpg?tr=w-828,q=80",
+        "discount": "15",
+        "company_name": "Gillette",
+        "product_name": "Mach 3 Bladed Shaving Cartridges/Razor - With Lubrication Strip, Protects Skin",
+        "rate": "4.1",
+        "description": "16 pcs",
+        "new_price": "1564",
+        "old_price": "1840",
+        "special_offer": "Har Din Sasta!"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/236283_4-gillette-foam-shave-lathers-quickly-hydrates-regular.jpg?tr=w-828,q=80",
+        "discount": "24 ",
+        "company_name": "Gillette",
+        "product_name": "Foam Shave - Lathers Quickly & Hydrates, Regular",
+        "rate": "4.3",
+        "description": "418 g",
+        "new_price": "225",
+        "old_price": "249",
+        "special_offer": "Get it for 213.75!"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40015686_9-del-monte-tomato-ketchup-classic-blend-rich-thick-condiment.jpg?tr=w-828,q=80",
+        "discount": "33",
+        "company_name": "Del Monte",
+        "product_name": "Tomato Ketchup - Classic Blend, Rich & Thick Condiment",
+        "rate": "4.1",
+        "description": "900 g - Spout Pouch",
+        "new_price": "87",
+        "old_price": "130",
+        "special_offer": "Har Din Sasta!"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40056927_9-park-avenue-perfume-spray-voyage.jpg?tr=w-828,q=80",
+        "discount": "34",
+        "company_name": "Park Avenue",
+        "product_name": "Voyage Signature Deodorant For Men",
+        "rate": "4",
+        "description": "220 ml - (Mega Pack)",
+        "new_price": "255.5",
+        "old_price": "390",
+        "special_offer": "Get it for 242.73!"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1213592_3-gillette-pre-shave-foam-classic-regular-skin-418gmach-3-shaving-blades-10-pcs.jpg?tr=w-828,q=80",
+        "discount": "23",
+        "company_name": "Gillette",
+        "product_name": "Pre Shave Foam - Classic Regular Skin 418G+Mach 3 Shaving Blades 10 Pcs",
+        "description": "Combo - 2 Items",
+        "new_price": "1294",
+        "old_price": "1674"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40195263_8-sunfeast-yippee-noodles-magic-masala.jpg?tr=w-828,q=80",
+        "discount": "17 ",
+        "company_name": "Sunfeast YiPPee!",
+        "product_name": "Magic Masala Instant Noodles",
+        "rate": "4.2",
+        "description": "720 g - (Pack of 12)",
+        "new_price": "151.2",
+        "old_price": "168"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1212835_3-yardley-london-gentleman-urbane-deodorant.jpg?tr=w-828,q=80",
+        "discount": "36",
+        "company_name": "Yardley London",
+        "product_name": "Gentleman Urbane Deodorant",
+        "rate": "4.2",
+        "description": "2x220 ml - (Multipack)",
+        "new_price": "369.46",
+        "old_price": "580"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1213593_3-gillette-mach-3-shaving-blades-6pcs-pre-shave-gel-fusion-hydra-gel-sensitive-195-g.jpg?tr=w-828,q=80",
+        "discount": "41 OFF",
+        "company_name": "Gillette",
+        "product_name": "Mach 3 Shaving Blades 6Pcs + Pre Shave Gel Fusion - Hydra Gel Sensitive 195 G",
+        "description": "Combo - 2 Items",
+        "new_price": "1134",
+        "old_price": "1175"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40213665_2-axe-dark-temptation-bodyspray-deodorant.jpg?tr=w-828,q=80",
+        "discount": "43",
+        "company_name": "Axe",
+        "product_name": "Dark Temptation - Long Lasting Deodorant, Bodyspray, For Men",
+        "rate": "3.8",
+        "description": "215 ml - Can",
+        "new_price": "199",
+        "old_price": "350",
+        "special_offer": "Get it for 189.05!"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1213796_2-gillette-mach3-shaving-razor-holder2-shaving-bladecartridge-3pcsfusion-hydra-gel-195ml.jpg?tr=w-828,q=80",
+        "discount": "4 ",
+        "company_name": "Gillette",
+        "product_name": "Mach3 Shaving Razor Holder+2 Shaving Blade/Cartridge 3Pcs+Fusion-Hydra Gel 195Ml",
+        "description": "Combo - 2 Items",
+        "new_price": "796.5",
+        "old_price": "800"
+    }
+]

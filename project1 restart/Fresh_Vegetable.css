@@ -1,0 +1,40 @@
+body{
+   margin: 0px 100px;
+   box-sizing: border-box;
+   font-family: Roboto;
+
+}
+.body_product{
+  display: grid;
+  grid-template-columns: repeat(3,25%);
+ 
+  gap: 40px;
+ 
+}
+
+.image_product{
+  width: 100%;
+ border: 2px solid rgba(0,0,0,0.2);
+}
+.card{
+  box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.2);
+  padding: 20px;
+  max-width: 300px;
+  max-height: fit-content;
+
+}
+.add{
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  border: none;
+ 
+  border-radius: 10px;
+ 
+}
+.light{
+  font-weight: lighter;
+  text-decoration: line-through;
+  font-size: small;
+ 
+}

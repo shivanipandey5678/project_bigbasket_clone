@@ -1,0 +1,211 @@
+[
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/10000263_12-fresho-strawberry.jpg?tr=w-1920,q=80",
+        "company_name": "Fresho",
+        "product_name": "Strawberry",
+        "new_price": 41,
+        "old_price": 56.16,
+        "sale": "8",
+        "category": "Exotic fruits and Veggies",
+        "rate": 4.5,
+        "name": "Strawberry"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/10000668_12-fresho-cucumber-english.jpg?tr=w-1920,q=80",
+        "company_name": "Fresho",
+        "product_name": "Cucumber - English (Loose)",
+        "new_price": 49,
+        "old_price": 87.67,
+        "sale": "12",
+        "category": "Exotic fruits and Veggies",
+        "rate": 1,
+        "name": "Cucumber"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/10000063_20-fresho-broccoli.jpg?tr=w-1920,q=80",
+        "company_name": "Fresho",
+        "product_name": "Fresho Broccoli",
+        "new_price": 41,
+        "old_price": 56.16,
+        "sale": "19",
+        "category": "Exotic fruits and Veggies",
+        "rate": 4.5,
+        "name": "Broccoli"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/10000273_16-fresho-mushrooms-button.jpg?tr=w-1920,q=80",
+        "company_name": "Fresho",
+        "product_name": "Fresho Mushrooms",
+        "new_price": 50,
+        "old_price": 78.08,
+        "sale": "36",
+        "category": "Exotic fruits and Veggies",
+        "rate": 3.5,
+        "name": "Mushrooms"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/30009286_9-fresho-blueberry.jpg?tr=w-1920,q=80",
+        "company_name": "Fresho",
+        "product_name": "Fresho Blueberry",
+        "new_price": 165,
+        "old_price": 232.88,
+        "sale": "6",
+        "category": "Exotic fruits and Veggies",
+        "rate": 2,
+        "name": "Blueberry"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/20000911_32-fresho-kiwi-green.jpg?tr=w-1920,q=80",
+        "company_name": "Fresho",
+        "product_name": "Fresho Kiwi",
+        "new_price": 99,
+        "old_price": 176,
+        "sale": "9",
+        "category": "Exotic fruits and Veggies",
+        "rate": 3,
+        "name": "Kiwi"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/30007409_4-fresho-neem-leaves-organically-grown.jpg?tr=w-1920,q=80",
+        "company_name": "Fresho",
+        "product_name": "Fresho Neem Leaves & Flowers Organically Grown",
+        "new_price": 4,
+        "old_price": 5.48,
+        "sale": "15",
+        "category": "Exotic fruits and Veggies",
+        "rate": 3.5,
+        "name": "Neem "
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40008982_15-fresho-dragon-fruit.jpg?tr=w-1920,q=80",
+        "company_name": "Fresho",
+        "product_name": "Fresho Dragon Fruit (Loose)",
+        "new_price": 62,
+        "old_price": 84,
+        "sale": "27",
+        "category": "Exotic fruits and Veggies",
+        "rate": 4,
+        "name": "Dragon Fruit"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40004992_14-fresho-sweet-corn.jpg?tr=w-828,q=80",
+        "company_name": "Fresho",
+        "product_name": "Fresho Sweet Corn (Loose)",
+        "new_price": 26,
+        "old_price": 35,
+        "sale": "27",
+        "category": "Exotic fruits and Veggies",
+        "rate": 3.5,
+        "name": "Sweet Corn"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/30009284_8-fresho-avocado-imported-medium.jpg?tr=w-828,q=80",
+        "company_name": "Fresho",
+        "product_name": "Fresho Avocado",
+        "new_price": 80,
+        "old_price": 109,
+        "sale": "27",
+        "category": "Exotic fruits and Veggies",
+        "rate": 3,
+        "name": "Avocado"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/10000133_14-fresho-lettuce-iceberg.jpg?tr=w-828,q=80",
+        "company_name": "Fresho",
+        "product_name": "Fresho Lettuce - Iceberg",
+        "new_price": 33,
+        "old_price": 45,
+        "sale": "27",
+        "category": "Exotic fruits and Veggies",
+        "rate": 4,
+        "name": "Lettuce Iceberg"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1202322_1-fresho-pear-green-imported.jpg?tr=w-1920,q=80",
+        "company_name": "Fresho",
+        "product_name": "Fresho Pear - Green",
+        "new_price": 202.01,
+        "old_price": 276.72,
+        "sale": "27",
+        "category": "Exotic fruits and Veggies",
+        "rate": 4.5,
+        "name": "Pear"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/10000018_20-fresho-baby-corn-peeled.jpg?tr=w-828,q=80",
+        "company_name": "Fresho",
+        "product_name": "Fresho Baby Corn - Peeled",
+        "new_price": 130,
+        "old_price": 178.08,
+        "sale": "27",
+        "category": "Exotic fruits and Veggies",
+        "rate": 4,
+        "name": "Baby Corn"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/30002322_11-fresho-guava-thai.jpg?tr=w-828,q=80",
+        "company_name": "Fresho",
+        "product_name": "Fresho Guava",
+        "new_price": 46,
+        "old_price": 64.38,
+        "sale": "29",
+        "category": "Exotic fruits and Veggies",
+        "rate": 4,
+        "name": "Guava"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40122445_4-fresho-grapes-green-residue-free.jpg?tr=w-828,q=80",
+        "company_name": "Fresho",
+        "product_name": "Fresho Grapes - Green",
+        "new_price": 46,
+        "old_price": 63.01,
+        "sale": "27",
+        "category": "Exotic fruits and Veggies",
+        "rate": 1,
+        "name": "Grapes"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40016101_3-fresho-broccoli-florets.jpg?tr=w-828,q=80",
+        "company_name": "Fresho",
+        "product_name": "Fresho Broccoli - Florets",
+        "new_price": 75,
+        "old_price": 102.74,
+        "sale": "27",
+        "category": "Exotic fruits and Veggies",
+        "rate": 2,
+        "name": "Broccoli"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40211695_1-fresho-mix-greens-kale-rocket-swiss-chard-hydroponically-grown.jpg?tr=w-828,q=80",
+        "company_name": "Fresho",
+        "product_name": "Fresho Mix Greens - Kale, Roquette, Swiss Chard, Hydroponically Grown",
+        "new_price": 65,
+        "old_price": 89.04,
+        "sale": "27",
+        "category": "Exotic fruits and Veggies",
+        "rate": 4,
+        "name": " Kale"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40198828_1-fresho-arugula-hydroponically-grown.jpg?tr=w-828,q=80",
+        "company_name": "Fresho",
+        "product_name": "Fresho Arugula (Roquette) - Hydroponically Grown",
+        "new_price": 60,
+        "old_price": 82.19,
+        "sale": "27",
+        "category": "Exotic fruits and Veggies",
+        "rate": 4,
+        "name": "Roquette"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40255802_1-fresho-lettuce-mix-hydroponically-grown-crisp-fresh-pesticides-free.jpg?tr=w-828,q=80",
+        "company_name": "Fresho",
+        "product_name": "Fresho Lettuce Mix - Hydroponically Grown, Crisp, Fresh, Pesticides-Free",
+        "new_price": 64,
+        "old_price": 87.67,
+        "sale": "27",
+        "category": "Exotic fruits and Veggies",
+        "rate": 2,
+        "name": "Hydroponically Grown"
+    }
+]

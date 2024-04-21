@@ -1,0 +1,97 @@
+[
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1215800_2-kapiva-aloe-vera-juice.jpg?tr=w-828,q=80",
+        "discount": "22",
+        "company_name": "Kapiva",
+        "product_name": "Pure Aloe Vera Hydrating Gel",
+        "rate": "4.1",
+        "description": "2x500 g - Multipack",
+        "new_price": "698",
+        "old_price": "900"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40228625_2-indisecrets-organic-tulsi-honey-chamomile.jpg?tr=w-1920,q=80",
+        "discount": "30",
+        "company_name": "IndiSecrets",
+        "product_name": "Organic Chamomile Tea - Tulsi Honey",
+        "rate": "2",
+        "description": "36 g - (20 Bags x 1.8 g each)",
+        "new_price": "139",
+        "old_price": "199",
+        "special_offer": "Get it for 132.05!"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1215800_2-kapiva-aloe-vera-juice.jpg?tr=w-1920,q=80",
+        "discount": "17",
+        "company_name": "Kapiva",
+        "product_name": "Aloe Vera Juice",
+        "rate": "3",
+        "description": "2x1 L - Multipack",
+        "new_price": "498",
+        "old_price": "598"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40113633_1-dabur-sat-isabgol-effective-relief-from-constipation.jpg?tr=w-828,q=80",
+        "discount": "8",
+        "company_name": "Dabur",
+        "product_name": "Sat Isabgol - Effective Relief From Constipation",
+        "rate": "5",
+        "description": "100 g",
+        "new_price": "152",
+        "old_price": "160",
+        "special_offer": "Get it for 144.40!"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40135131_10-dabur-chyawanprash-2x-immunity.jpg?tr=w-828,q=80",
+        "discount": "14",
+        "company_name": "Dabur",
+        "product_name": "Chyawanprash",
+        "rate": "2",
+        "description": "2 kg",
+        "new_price": "683.7",
+        "old_price": "795",
+        "special_offer": "Get it for 649.52!"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40236900_2-dabur-chyawanprakash-sugar-free-helps-boost-immune-system.jpg?tr=w-828,q=80",
+        "discount": "15",
+        "company_name": "Dabur",
+        "product_name": "Chyawanprakash - Sugar-Free, Helps Boost Immune System",
+        "rate": "3",
+        "description": "1.8 kg",
+        "new_price": "658.75",
+        "old_price": "775"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40280266_1-dabur-chyawanprash-awaleha-with-goodness-of-jaggery-boosts-immunity.jpg?tr=w-828,q=80",
+        "discount": "20",
+        "company_name": "Dabur",
+        "product_name": "Chyawanprash (Gur/Jaggery) 3X Immunity Action",
+        "rate": "2.8",
+        "description": "900 g",
+        "new_price": "375.25",
+        "old_price": "395",
+        "special_offer": "Get it for 356.49!"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40113692_2-dabur-hot-sip-ayurveda-kaadha.jpg?tr=w-828,q=80",
+        "discount": "23",
+        "company_name": "Dabur",
+        "product_name": "Hot Sip - Ayurveda Kaadha",
+        "rate": "4",
+        "description": "30 Sachets",
+        "new_price": "273",
+        "old_price": "300",
+        "special_offer": "Get it for 259.35!"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/30002418_5-patanjali-special-chyawanprash.jpg?tr=w-828,q=80",
+        "discount": "14",
+        "company_name": "Patanjali",
+        "product_name": "Special Chyawanprash",
+        "rate": "1",
+        "description": "1 kg - Jar",
+        "new_price": "309.6",
+        "old_price": "360"
+    }
+]

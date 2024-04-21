@@ -1,0 +1,133 @@
+[
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/20000979_12-fresho-palak-cleaned-without-roots.jpg?tr=w-828,q=80",
+        "company_name": "Fresho",
+        "product_name": "Fresho Coriander Leaves With Roots - Enhances Flavour Of The Dishes",
+        "new_price": 5,
+        "old_price": 7.5,
+        "sale": "27% OFF",
+        "category": "Fresh Vegetable",
+        "rate": 4.5
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/20001190_12-fresho-onion.jpg?tr=w-828,q=80",
+        "company_name": "Fresho",
+        "product_name": "Onion",
+        "new_price": 10,
+        "old_price": 18,
+        "sale": "32% OFF",
+        "category": "Fresh Vegetable",
+        "rate": 4
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40320936_1-fresho-potato-fresh-crop.jpg?tr=w-828,q=80",
+        "company_name": "Fresho",
+        "product_name": "Potato - Fresh Crop",
+        "new_price": 35,
+        "old_price": 55,
+        "sale": "44% OFF",
+        "category": "Fresh Vegetable",
+        "rate": 3
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/10000072_16-fresho-carrot-orange.jpg?tr=w-828,q=80",
+        "company_name": "Fresho",
+        "product_name": "Fresho Carrot - Orange (Loose)",
+        "new_price": 45,
+        "old_price": 75,
+        "sale": "36% OFF",
+        "category": "Fresh Vegetable",
+        "rate": 3.5
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1228332_1-fresho-tomato-local.jpg?tr=w-828,q=80",
+        "company_name": "Fresho",
+        "product_name": "Tomato - Local",
+        "new_price": 30,
+        "old_price": 60,
+        "sale": "50% OFF",
+        "category": "Fresh Vegetable",
+        "rate": 3.5
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/10000103_16-fresho-cucumber.jpg?tr=w-828,q=80",
+        "company_name": "Fresho",
+        "product_name": "Cucumber - English (Loose)",
+        "new_price": 40,
+        "old_price": 80,
+        "sale": "50% OFF",
+        "category": "Fresh Vegetable",
+        "rate": 4
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/10000382_10-fresho-carrot-red.jpg?tr=w-828,q=80",
+        "company_name": "Fresho",
+        "product_name": "Carrot",
+        "new_price": 50,
+        "old_price": 90,
+        "sale": "45% OFF",
+        "category": "Fresh Vegetable",
+        "rate": 3.5
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40312600_2-fresho-tomato-hybrid.jpg?tr=w-828,q=80",
+        "company_name": "Fresho",
+        "product_name": "Tomato - Hybrid",
+        "new_price": 35,
+        "old_price": 65,
+        "sale": "46% OFF",
+        "category": "Fresh Vegetable",
+        "rate": 3.5
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/10000142_17-fresho-ladies-finger.jpg?tr=w-828,q=80",
+        "company_name": "Fresho",
+        "product_name": "Ladies Finger (Loose)",
+        "new_price": 45,
+        "old_price": 70,
+        "sale": "36% OFF",
+        "category": "Fresh Vegetable",
+        "rate": 3.5
+    },
+    
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40089742_2-fresho-beans-haricot.jpg?tr=w-828,q=80",
+        "company_name": "Fresho",
+        "product_name": "Beans",
+        "new_price": 60,
+        "old_price": 85,
+        "sale": "29% OFF",
+        "category": "Exotic fruits and Veggies",
+        "rate": 3
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/10000046_17-fresho-beetroot.jpg?tr=w-828,q=80",
+        "company_name": "Fresho",
+        "product_name": "Beetroot",
+        "new_price": 50,
+        "old_price": 75,
+        "sale": "33% OFF",
+        "category": "Fresh Vegetable",
+        "rate": 3.5
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/20000979_12-fresho-palak-cleaned-without-roots.jpg?tr=w-828,q=80",
+        "company_name": "Fresho",
+        "product_name": "Palak - Cleaned Without Root",
+        "new_price": 55,
+        "old_price": 80,
+        "sale": "31% OFF",
+        "category": "Fresh Vegetable",
+        "rate": 3.5
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/10000074_19-fresho-cauliflower.jpg?tr=w-828,q=80",
+        "company_name": "Fresho",
+        "product_name": "Cauliflower",
+        "new_price": 40,
+        "old_price": 70,
+        "sale": "43% OFF",
+        "category": "Fresh Vegetable",
+        "rate": 3.5
+    }
+]

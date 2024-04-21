@@ -1,0 +1,161 @@
+
+
+[
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1214144_1-nandini-pure-ghee.jpg?tr=w-1920,q=80",
+        "company_name": "Nandini",
+        "product_name": "Pure Ghee",
+        "description": "2 x 1L Multipack",
+        "new_price": "1187",
+        "old_price": "2220",
+        "name": "ghee",
+        "discount": "15"  
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1217067_2-nandini-goodlife-toned-milk.jpg?tr=w-1920,q=80",
+        "company_name": "Nandini",
+        "product_name": "Nandini GoodLife UHT Treated Toned Milk",
+        "description": "180 ml Pouch",
+        "new_price": "797",
+        "old_price": "914",
+        "sale": "bookmark ADD",
+        "name": "milk",
+        "discount": "20"  
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40149830_1-nandini-curd.jpg?tr=w-750,q=80",
+        "company_name": "Nandini",
+        "product_name": "Curd",
+        "description": "500 ml Pouch",
+        "new_price": "26",
+        "old_price": "32",
+        "sale": "bookmark ADD",
+        "name": "curd",
+        "discount": "5"  
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/245504_1-nandini-slim-skimmed-milk.jpg?tr=w-1920,q=80",
+        "company_name": "Nandini",
+        "product_name": "Slim UHT Treated Skimmed Milk",
+        "description": "500 ml Pack of 20",
+        "new_price": "620",
+        "old_price": "732",
+        "sale": "bookmark ADD",
+        "name": "milk",
+        "discount": "10"  
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40149832_1-nandini-pasteurised-toned-milk.jpg?tr=w-750,q=80",
+        "company_name": "Nandini",
+        "product_name": "Pasteurised Toned Milk",
+        "description": "500 ml Pouch",
+        "new_price": "25",
+        "old_price": "33",
+        "sale": "bookmark ADD",
+        "name": "milk",
+        "discount": "0"  
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1213687_1-nandini-cooking-butter-unsalted.jpg?tr=w-750,q=80",
+        "company_name": "Nandini",
+        "product_name": "Nandini Cooking Butter - Unsalted",
+        "description": "125 g",
+        "new_price": "510",
+        "old_price": "775",
+        "sale": "bookmark ADD",
+        "name": "butter",
+        "discount": "30"  
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/270621_6-nandini-paneer.jpg?tr=w-750,q=80",
+        "company_name": "Nandini",
+        "product_name": "Nandini Fresh Paneer",
+        "description": "500 ml",
+        "new_price": "425",
+        "old_price": "500",
+        "sale": "bookmark ADD",
+        "name": "paneer",
+        "discount": "25"  
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1213686_1-nandini-butter-salted.jpg?tr=w-750,q=80",
+        "company_name": "Nandini",
+        "product_name": "Nandini Butter - Salted",
+        "description": "36 g (20 Bags x 1.8 g each)",
+        "new_price": "510",
+        "old_price": "699",
+        "sale": "bookmark ADD",
+        "name": "butter",
+        "discount": "40"  
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40181587_5-nandini-cheese-slice.jpg?tr=w-750,q=80",
+        "company_name": "Nandini",
+        "product_name": "Nandini Cheese Slice",
+        "description": "180 g",
+        "new_price": "389.5",
+        "old_price": "410",
+        "sale": "bookmark ADD",
+        "name": "cheese",
+        "discount": "10"  
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1207152_1-nandini-milk-strawberry-flavor.jpg?tr=w-750,q=80",
+        "company_name": "Nandini",
+        "product_name": "Nandini Milk - Strawberry",
+        "new_price": "150",
+        "old_price": "200",
+        "sale": "bookmark ADD",
+        "name": "milk",
+        "discount": "15"  
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40181591_4-nandini-cheddar-cheese-spread-plain.jpg?tr=w-750,q=80",
+        "company_name": "Nandini",
+        "product_name": "Nandini Cheese Spread - Plain",
+        "new_price": "100",
+        "old_price": "102.46",
+        "sale": "bookmark ADD",
+        "name": "cheese",
+        "discount": "20"  
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40181593_4-nandini-cheddar-cheese-spread-capsicum.jpg?tr=w-750,q=80",
+        "company_name": "Nandini",
+        "product_name": "Nandini Cheese Spread - Capsicum",
+        "new_price": "95.5",
+        "old_price": "165",
+        "sale": "bookmark ADD",
+        "name": "cheese",
+        "discount": "5"  
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40006934_2-nandini-mix-gulab-jamoon.jpg?tr=w-750,q=80",
+        "company_name": "Nandini",
+        "product_name": "Nandini Mix - Gulab Jamoon",
+        "new_price": "80",
+        "old_price": "100",
+        "sale": "bookmark ADD",
+        "discount": "0"  
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40181594_4-nandini-cheddar-cheese-spread-chilly-garlic.jpg?tr=w-750,q=80",
+        "company_name": "Nandini",
+        "product_name": "Nandini Cheese Spread - Chilli Garlic",
+        "new_price": "95",
+        "old_price": "190",
+        "sale": "bookmark ADD",
+        "name": "cheese",
+        "discount": "35"  
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40181595_5-nandini-cheddar-cheese-spread-jalapeno.jpg?tr=w-750,q=80",
+        "company_name": "Nandini",
+        "product_name": "Nandini Cheese Spread - Jalapeno",
+        "new_price": "95",
+        "old_price": "108",
+        "name": "cheese",
+        "discount": "45"  
+    }
+]
+

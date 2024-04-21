@@ -1,0 +1,191 @@
+body{
+    margin: 0px 100px;
+    box-sizing: border-box;
+    font-family: Roboto;
+
+}
+.head1{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+   
+    
+}
+.head1 a{
+    text-decoration: none;
+}
+.Smart_Basket{
+    width: 100%;
+    height: fit-content;
+    margin-top: 30px;
+    padding-top: 30px ;
+    background-color:rgba(0,0,0,0.1) ;
+
+}
+#head1_right{
+    display: flex;
+    width: 15%;
+    justify-content: space-evenly;
+
+
+}
+#head1_right button{
+    width: max-content;
+    height: max-content;
+}
+.cards_flex{
+    width: 100%;
+    display: grid;
+   grid-template-columns: repeat(4,1fr);
+   padding-bottom: 30px;
+   
+  
+
+    
+
+}
+.cards_flex img{
+    width: 250px;
+    border: 1px solid rgba(0,0,0,0.2);
+}
+.first_card{
+    padding: 15px;
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.2);
+    background-color: whitesmoke;
+    word-wrap: break-word;
+}
+.first_card select{
+    width: 100%;
+    padding: 4px;
+    color: rgba(0,0,0,0.2);
+    border-color: rgba(0,0,0,0.2);
+
+
+}
+
+/* price flex in card */
+.first_card  #prices{
+     display: flex;
+     justify-content: flex-start;
+}
+ #prices>p+p{
+   
+    font-weight: lighter;
+   text-decoration: line-through;
+   margin-left: 5px;
+   color:  rgba(0,0,0,0.4);
+}
+
+/* adding item flex */
+ #add_item span{
+     border: 1px solid rgba(0,0,0,0.2);
+     padding: 2px;
+ }
+ #add_item button{
+    color: rgb(223, 87, 87);
+    text-decoration: none;
+    padding: 4px 14px;
+    border-radius: 5px;
+    width: 80%;
+ }
+ #add_item button:hover{
+    background-color: red;
+    color: white;
+    font-weight: 800;
+ }
+ #add_item {
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+ }
+
+
+
+ footer{
+    background-color: rgb(50, 48, 48);
+    color: white;
+   margin: 0px;
+   width: 100%;
+   line-height: 25px;
+   padding: 20px 30px;
+}
+ .footer_header{
+    display: flex;
+  
+    justify-content: space-evenly;
+    padding-top: 50px;
+    border-bottom: 1px dashed  rgb(165, 160, 160);
+    
+ }
+ footer h5{
+    text-align: center;
+ }
+ .footer_header li{
+    list-style: none;
+    margin-bottom: 6px;
+ }
+ .footer_header_middle{
+    border-bottom: 1px dashed  rgb(91, 86, 86);
+ }
+ .footer_header_middle p{
+    font-size: small;
+    color: rgb(165, 160, 160);
+ }
+ .logo{
+    color: white;
+    background-color: white;
+    padding: 3px 6px;
+    width: 20px;
+ }
+ #contact_box{
+    display: flex;
+    flex-direction: column;
+
+ }
+ #inner_contact_box{
+    display: flex;
+    justify-content: space-evenly;
+ }
+ 
+#footer_end{
+    display: flex;
+    justify-content: space-evenly;
+}
+#footer_end ul {
+    columns: 3;
+    list-style: none;
+    flex: 1;
+    color: rgb(165, 160, 160);
+    
+}
+#outer_footer_end a{
+    color: rgb(165, 160, 160);
+    padding-bottom: 40px;
+   margin: 0 auto;
+}
+#footer_ending{
+    color: white;
+    background-color: black;
+    margin-bottom: 0;
+   padding: 4px8px ;
+
+}
+@media screen and (max-width:1279px) and (min-width:769px) {
+   .cards_flex{
+      width: fit-content;
+      display: grid;
+     grid-template-columns: repeat(3,1fr);
+}
+}
+
+
+@media screen and (max-width:768px) {
+   .cards_flex{
+      width: fit-content;
+      display: grid;
+     grid-template-columns: repeat(2,1fr);
+     margin: (0 auto);
+}
+}
+

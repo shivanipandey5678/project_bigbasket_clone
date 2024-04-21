@@ -1,0 +1,142 @@
+[
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1227459_1-fresho-farm-eggs-table-tray-medium-antibiotic-residue-free.jpg?tr=w-1920,q=80",
+        "company_name": "Fresho",
+        "product_name": "Farm Eggs - Table Tray, Medium, Antibiotic Residue-Free",
+        "description": "3 x 12 pcs Multipack",
+        "new_price": "₹267",
+        "old_price": "₹450",
+        "discount_percentage": "40.67%",
+        "sale": "bookmark ADD"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/10000908_15-fresho-chicken-curry-cut-without-skin-antibiotic-residue-free-13-15-pcs.jpg?tr=w-1920,q=80",
+        "company_name": "Fresho",
+        "product_name": "Chicken Curry Cut Without Skin, Antibiotic Residue Free, 12-16 Pcs",
+        "description": "500 g",
+        "new_price": "₹140",
+        "old_price": "₹224.75",
+        "discount_percentage": "37.75%",
+        "sale": "bookmark ADD"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1205938_1-fresho-eggs-regular.jpg?tr=w-1920,q=80",
+        "company_name": "Fresho",
+        "product_name": "Eggs - Regular",
+        "description": "5x6 pcs Multipack",
+        "new_price": "₹215.6",
+        "old_price": "₹325",
+        "discount_percentage": "33.66%",
+        "sale": "bookmark ADD"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/10000900_10-fresho-chicken-breast-boneless-antibiotic-residue-free-4-5-pcs.jpg?tr=w-1920,q=80",
+        "company_name": "Fresho",
+        "product_name": "Chicken Breast - Boneless, Antibiotic Residue-Free, 2-4 pcs",
+        "description": "500 g",
+        "new_price": "₹179",
+        "old_price": "₹324",
+        "discount_percentage": "44.88%",
+        "sale": "bookmark ADD"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40295896_2-abhi-eggs-white-eggs-nutri-with-immunity-boosters-fortified.jpg?tr=w-1920,q=80",
+        "company_name": "ABHI EGGS",
+        "product_name": "Nutri+ with Immunity Boosters, 100% antibiotic free",
+        "description": "24 Pcs",
+        "new_price": "₹300.7",
+        "old_price": "₹310",
+        "discount_percentage": "3.00%",
+        "sale": "bookmark ADD"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/20000963_3-fresho-rohu-fish-large-curry-cutbengali-cut-preservative-free.jpg?tr=w-1920,q=80",
+        "company_name": "Fresho",
+        "product_name": "Rohu Fish Curry Cut/Bengali Cut",
+        "description": "500 g-With Head",
+        "new_price": "₹149",
+        "old_price": "₹240",
+        "discount_percentage": "38.75%",
+        "sale": "bookmark ADD"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/10000755_27-fresho-catla-fish-large-curry-cutbengali-cut-preservative-free-12-15-pcs.jpg?tr=w-828,q=80",
+        "company_name": "ABHI EGGS",
+        "product_name": "Vitamin D3 with Immunity Boosters, 100% antibiotic free",
+        "description": "24 Pcs",
+        "new_price": "₹329",
+        "old_price": "₹350",
+        "discount_percentage": "6.00%",
+        "sale": "bookmark ADD"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40295897_2-abhi-eggs-white-eggs-vit-d3-with-immunity-boosters-fortified.jpg?tr=w-828,q=80",
+        "company_name": "ABHI EGGS",
+        "product_name": "GOLD+ with Immunity Boosters, 100% antibiotic free",
+        "description": "6 Pcs",
+        "new_price": "₹87.3",
+        "old_price": "₹90",
+        "discount_percentage": "3.33%",
+        "sale": "bookmark ADD"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1214920_3-prasuma-chicken-momos-spicy.jpg?tr=w-828,q=80",
+        "company_name": "Prasuma",
+        "product_name": "Chicken - Momos, Spicy",
+        "description": "2 x 24 pcs - Multipack",
+        "new_price": "₹559",
+        "old_price": "₹650",
+        "discount_percentage": "14.00%",
+        "sale": "bookmark ADD"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1214919_3-prasuma-chicken-momos-original.jpg?tr=w-828,q=80",
+        "company_name": "PRASUMA",
+        "product_name": "Chicken Momos, Original",
+        "description": "2 x 24 pcs-Multipack",
+        "new_price": "₹572",
+        "old_price": "₹650",
+        "discount_percentage": "11.38%",
+        "sale": "bookmark ADD"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40197811_1-keventer-italian-sausage.jpg?tr=w-828,q=80",
+        "company_name": "Keventer",
+        "product_name": "Italian Sausage",
+        "description": "500 g",
+        "new_price": "₹292.5",
+        "old_price": "₹325",
+        "discount_percentage": "10.00%",
+        "sale": ""
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40055084_2-meatzza-fresh-boneless-chicken-breast.jpg?tr=w-828,q=80",
+        "company_name": "Meatzza",
+        "product_name": "Fresh Boneless Chicken Breast",
+        "description": "500 g",
+        "new_price": "₹260",
+        "old_price": "₹297",
+        "discount_percentage": "12.46%",
+        "sale": "bookmark ADD"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40059424_5-meatzza-chicken-meatball.jpg?tr=w-828,q=80",
+        "company_name": "Meatzza",
+        "product_name": "Chicken Meatball",
+        "description": "500 g",
+        "new_price": "₹260",
+        "old_price": "",
+        "discount_percentage": "",
+        "sale": "bookmark ADD"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40055087_4-meatzza-fresh-chicken-mince.jpg?tr=w-828,q=80",
+        "company_name": "Meatzza",
+        "product_name": "Meatzza Chicken - Seekh Kebab Hot & Spicy",
+        "description": "500 g",
+        "new_price": "₹310.25",
+        "old_price": "₹365",
+        "discount_percentage": "15.07%",
+        "sale": "bookmark ADD"
+    }
+]

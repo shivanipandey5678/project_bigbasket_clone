@@ -1,0 +1,146 @@
+[
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40276397_2-indisecrets-assorted-tulsi-infusions-with-4-exotic-flavours-sampler-pack.jpg?tr=w-1920,q=80",
+        "company_name": "IndiSecrets",
+        "product_name": "Assorted Tulsi Infusions With 4 Exotic Flavours",
+        "quantity": "8.5 g (5 N x 1.7 g)",
+        "new_price": 59,
+        "old_price": 80,
+        "discount_percentage": "26.25"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1204482_1-red-label-tea.jpg?tr=w-1920,q=80",
+        "company_name": "Red Label",
+        "product_name": "Tea",
+        "quantity": "2x1 kg Multipack",
+        "new_price": 1079,
+        "old_price": 1200,
+        "discount_percentage": "10.08"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40270718_1-emperia-green-tea-sampler-with-plain-tulsi-lemon-honey.jpg?tr=w-1920,q=80",
+        "company_name": "Emperia",
+        "product_name": "Green Tea With Plain, Tulsi, Lemon & Honey, Travel Pack",
+        "quantity": "6.7g-(5 Tea Bags x 1.34 g Each)",
+        "new_price": 18,
+        "old_price": 40,
+        "discount_percentage": "55"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1204484_1-taj-mahal-tea.jpg?tr=w-828,q=80",
+        "company_name": "Taj Mahal",
+        "product_name": "Tea",
+        "quantity": "2x500 g-Multipack",
+        "new_price": 629.8,
+        "old_price": 1670,
+        "discount_percentage": "62.32"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/263620_4-tata-tea-agni-leaf-tea.jpg?tr=w-828,q=80",
+        "company_name": "Tata Tea Agni",
+        "product_name": "Special Blend Tea - 10% Extra Strong Leaves, Perfect Aroma &",
+        "quantity": "100 g-Pack",
+        "new_price": 23.5,
+        "old_price": 25,
+        "discount_percentage": "6"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40002111_11-3-roses-top-star.jpg?tr=w-828,q=80",
+        "company_name": "3 Roses",
+        "product_name": "Top Star Tea",
+        "quantity": "500 g - Carton",
+        "new_price": 377.5,
+        "old_price": 420,
+        "discount_percentage": "10.12"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40128173_8-emperia-premium-tea-with-20-extra-long-leaf.jpg?tr=w-828,q=80",
+        "company_name": "Emperia",
+        "product_name": "Premium Tea With 20% Extra Long Leaf",
+        "quantity": "250 g",
+        "new_price": 129,
+        "old_price": 145,
+        "discount_percentage": "11.03"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40067633_6-goodricke-organic-tea-roasted-darjeeling.jpg?tr=w-828,q=80",
+        "company_name": "Goodricke",
+        "product_name": "Roasted Darjeeling Organic Tea - Golden Orange Pekoe",
+        "quantity": "250 g - Jar",
+        "new_price": 300,
+        "discount_percentage": "8.03"
+       
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1204490_1-red-label-tea-natural-care.jpg?tr=w-828,q=80",
+        "company_name": "Red Label",
+        "product_name": "Tea Natural Care",
+        "quantity": "2x1 kg-Multipack",
+        "new_price": 920,
+        "old_price": null,
+        "discount_percentage": "5"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40128176_8-emperia-masters-blend-tea-rich-taste.jpg?tr=w-828,q=80",
+        "company_name": "Emperia",
+        "product_name": "Masters Blend Tea- Rich Taste",
+        "quantity": "2x400 ml (Multipack)",
+        "new_price": 702,
+        "old_price": 990,
+        "discount_percentage": "29.64"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40200082_3-tata-tea-gold-tea.jpg?tr=w-828,q=80",
+        "company_name": "Tata Tea Gold",
+        "product_name": "Tea",
+        "quantity": "2x1L - (Multi...)",
+        "new_price": 996.34,
+        "old_price": 1298,
+        "discount_percentage": "23.22"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/20003982_4-wagh-bakri-premium-leaf-tea.jpg?tr=w-828,q=80",
+        "company_name": "Wagh Bakri",
+        "product_name": "Premium Leaf Tea - Strong & Refreshing",
+        "quantity": "100 pcs -pp jar",
+        "new_price": 58.5,
+        "old_price": 65,
+        "discount_percentage": "10"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/266572_4-3-roses-dust-tea.jpg?tr=w-828,q=80",
+        "company_name": "Daburv",
+        "product_name": "Dabur Chyawanprakash - Sugar-Free, Helps Boost Immune System",
+        "quantity": "125 g",
+        "new_price": 581.25,
+        "old_price": 775,
+        "discount_percentage": "24.9"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/264437_2-tata-tea-kanan-devan-tea.jpg?tr=w-828,q=80",
+        "company_name": "Kapiva",
+        "product_name": "Kapiva Himalayan Apple Cider Vinegar With Mother - Controls Weight & Hunger Pangs, 500 m",
+        "quantity": "500 ml",
+        "new_price": 284.05,
+        "old_price": 299,
+        "discount_percentage": "5"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40228625_2-indisecrets-organic-tulsi-honey-chamomile.jpg?tr=w-828,q=80",
+        "company_name": "IndiSecrets",
+        "product_name": "IndiSecrets Organic Chamomile Tea - Tulsi Honey",
+        "quantity": "36 g (20 Bags x 1.8 g each)",
+        "new_price": 120,
+        "old_price": 199,
+        "discount_percentage": "39.7"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40113632_4-dabur-sat-isabgol-effective-relief-from-constipation.jpg?tr=w-828,q=80",
+        "company_name": "Dabur",
+        "product_name": "Dabur Sat Isabgol - Effective Relief From Constipation",
+        "quantity": "180 g",
+        "new_price": 389.5,
+        "old_price": 410,
+        "discount_percentage": "5"
+    }
+]

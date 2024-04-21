@@ -1,0 +1,153 @@
+[
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40161682_4-fresho-pure-cow-desi-ghee.jpg?tr=w-1920,q=80",
+        "company_name": "Fresho",
+        "product_name": "Fresho Pure Ghee/Tupp",
+        "quantity": "180 ml Pouch",
+        "new_price": 149,
+        "old_price": 170,
+        "discount_percentage": "12.35"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1214144_1-nandini-pure-ghee.jpg?tr=w-1920,q=80",
+        "company_name": "Nandini",
+        "product_name": "Pure Ghee",
+        "quantity": "2 x1L-Multipack",
+        "new_price": 1260,
+        "old_price": 1700,
+        "discount_percentage": "12.35"
+       
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40215104_8-bb-popular-desi-ghee.jpg?tr=w-1920,q=80",
+        "company_name": "BB Popular",
+        "product_name": "BB Popular Desi White Ghee",
+        "quantity": "500 ml-Pack of 20",
+        "new_price": 120,
+        "old_price": 170,
+        "discount_percentage": "12.35"
+       
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/252427_8-grb-ghee.jpg?tr=w-1920,q=80",
+        "company_name": "GRB",
+        "product_name": "GRB Ghee/Tuppa, 200 ml Bottle",
+        "quantity": "200 ml Pouch",
+        "new_price": 170,
+        "old_price": 180,
+        "discount_percentage": "5.56"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40048252_16-aashirvaad-svasti-cow-ghee.jpg?tr=w-1920,q=80",
+        "company_name": "Aashirvaad Svasti",
+        "product_name": "Aashirvaad Svasti Cow Ghee/Tuppa, 500 ml Pet Jar",
+        "quantity": "500 ml-Pack of 20",
+        "new_price": 422.75,
+        "old_price": 445,
+        "discount_percentage": "5"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40276380_3-fresho-pure-ghee-100-natural.jpg?tr=w-1920,q=80",
+        "company_name": "Amul",
+        "product_name": "Amul Pure Ghee",
+        "quantity": "2 x 1 L Multipack",
+        "new_price": 1270,
+        "old_price": 1700,
+        "discount_percentage": "12.35"
+ 
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40104736_1-aavin-ghee.jpg?tr=w-1920,q=80",
+        "company_name": "Aavin",
+        "product_name": "Ghee",
+        "quantity": "1 L - Jar",
+        "new_price": 739,
+        "old_price": 700,
+        "discount_percentage": "-5.57"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1214158_2-milkfood-rich-desi-ghee.jpg?tr=w-1920,q=80",
+        "company_name": "Milkfood",
+        "product_name": "Rich Desi Ghee",
+        "quantity": "1L - Bottle",
+        "new_price": 665.54,
+        "old_price": 700,
+        "discount_percentage": "4.93"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40211784_5-fresho-organic-a2-desi-cow-ghee.jpg?tr=w-828,q=80",
+        "company_name": "Fresho Organic",
+        "product_name": "A2 Desi Cow Ghee 100 Pure & Natural",
+        "quantity": "500 ml",
+        "new_price": 699,
+        "old_price": 1500,
+        "discount_percentage": "53.4"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1212447_3-fresho-organic-cow-desi-gheetuppa.jpg?tr=w-828,q=80",
+        "company_name": "Kapiva",
+        "product_name": "Pure Aloe Vera Hydrating Gel",
+        "quantity": "2x400 ml (Multipack)",
+        "new_price": 702,
+        "old_price": 990,
+        "discount_percentage": "29.64"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1214170_1-amul-high-aroma-cow-ghee.jpg?tr=w-828,q=80",
+        "company_name": "AKSHAYAKALPA",
+        "product_name": "Organic Cow Ghee/Tuppa",
+        "quantity": "490 ml",
+        "new_price": 799,
+        "old_price": 1700,
+        "discount_percentage": "12.35"
+      
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1222269_1-sri-sri-tattva-cows-gheetuppa.jpg?tr=w-828,q=80",
+        "company_name": "Fresho Organic",
+        "product_name": "Cow Desi Ghee/Tuppa",
+        "quantity": "2x1 L (Multipack)",
+        "new_price": 1598,
+        "old_price": 2600,
+        "discount_percentage": "38.54"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40187102_2-nutralite-nutralite-doodhshakti-pure-ghee-from-braj-bhoomi-1l.jpg?tr=w-828,q=80",
+        "company_name": "Amul",
+        "product_name": "High Aroma Cow Ghee",
+        "quantity": "2 x 1L - Multipack",
+        "new_price": 1460,
+        "old_price": 1700,
+        "discount_percentage": "12.35"
+
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/40046232_4-amul-amul-ghee-5-l.jpg?tr=w-828,q=80",
+        "company_name": "Sri Sri Tattva",
+        "product_name": "Cows Ghee/Tuppa",
+        "quantity": "2 x 1L - Multipack",
+        "new_price": 1300,
+        "old_price": 1700,
+        "discount_percentage": "12.35"
+
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1214156_1-gowardhan-pure-cow-ghee.jpg?tr=w-828,q=80",
+        "company_name": "Nutralite",
+        "product_name": "Ghee/Tuppa",
+        "quantity": "1L",
+        "new_price": 604.8,
+        "old_price": 1700,
+        "discount_percentage": "12.35"
+
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1214146_1-gowardhan-pure-cow-ghee.jpg?tr=w-828,q=80",
+        "company_name": "Dabur",
+        "product_name": "Dabur Sat Isabgol - Effective Relief From Constipation",
+        "quantity": "180 g",
+        "new_price": 389.5,
+        "old_price": 410,
+        "discount_percentage": "5"
+    }
+]

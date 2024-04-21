@@ -1,0 +1,33 @@
+body{
+    margin: 0px 100px;
+    box-sizing: border-box;
+    font-family: Roboto;
+
+}
+#products{
+   display: grid;
+   grid-template-columns: repeat(3,25%);
+  
+   gap: 40px;
+  
+}
+
+.image_product{
+   width: 100%;
+}
+.card{
+   box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.2);
+   padding: 20px;
+   max-width: 300px;
+   max-height: fit-content;
+
+}
+
+.del{
+   background-color: red;
+   color: white;
+   font-weight: bold;
+   border: none;
+   padding: 14px 25px;
+   border-radius: 10px;
+}

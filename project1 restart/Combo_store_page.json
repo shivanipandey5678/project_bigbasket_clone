@@ -1,0 +1,149 @@
+[
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1213513_3-yardley-london-morning-dew-deodorant-for-women.jpg?tr=w-1920,q=80",
+        "company_name": "Yardley London",
+        "product_name": "Morning Dew Deodorant - For Women",
+        "description": "3x150 ml (MultiPack)",
+        "discount_percentage": "34",
+        "new_price": "447.45",
+        "old_price": "675",
+        "sale": "Add"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1213138_3-pringles-potato-chips.jpg?tr=w-1920,q=80",
+        "company_name": "Pringles",
+        "product_name": "Potato Chips - Assorted Flavours, 102g/107g, Crispy Snack For Movie Night & Sports Binging",
+        "combo_items": "Combo - 6 Items",
+        "discount_percentage": "15",
+        "new_price": "602.79",
+        "old_price": "705",
+        "sale": "Add"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1221205_1-bb-combo-chocolate-home-treats-pack-126-g-home-treats-pack-162-g.jpg?tr=w-1920,q=80",
+        "company_name": "bb Combo",
+        "product_name": "Chocolate Home Treats Pack, 126 g + Home Treats Pack, 162 g",
+        "combo_items": "Combo - 2 Items",
+        "discount_percentage": "18",
+        "new_price": "301.4",
+        "old_price": "369",
+        "sale": "Add"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1211882_1-bb-combo-peppy-tomato-disc-70g-peppy-cheeseballs-70g-piknik-classic-tomato-chilli-70g.jpg?tr=w-1920,q=80",
+        "company_name": "bb Combo",
+        "product_name": "Peppy Tomato Disc 60g + Peppy Cheeseballs 60g + Piknik Classic Tomato Chilli 60g",
+        "combo_items": "Combo - 3 Items",
+        "new_price": "102",
+        "old_price": "180",
+        "discount_percentage": "43",
+        "sale": "Add"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1223296_1-kwality-walls-frozen-dessert-crunchilicious-butterscotch.jpg?tr=w-1920,q=80",
+        "company_name": "kwality walls",
+        "product_name": "Frozen Dessert - Crunchilicious Butterscotch",
+        "description": "2 x 700 ml Multipack",
+        "discount_percentage": "15",
+        "new_price": "306",
+        "old_price": "360",
+        "sale": "Add"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1214521_2-dabur-gulabari-premium-rose-water-100-natural.jpg?tr=w-1920,q=80",
+        "company_name": "Dabur Gulabari",
+        "product_name": "Premium Rose Water",
+        "description": "2x400 ml (Multipack)",
+        "discount_percentage": "46",
+        "new_price": "146.06",
+        "old_price": "270",
+        "sale": "Add"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1223407_1-cream-bell-caramel-butterscotch-ice-cream.jpg?tr=w-1920,q=80",
+        "company_name": "Cream Bell",
+        "product_name": "Caramel Butterscotch Ice Cream",
+        "description": "2 x 750 ml - Multipack",
+        "new_price": "307.8",
+        "old_price": "360",
+        "sale": "Add"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1213595_3-clean-clear-foaming-face-wash.jpg?tr=w-1920,q=80",
+        "company_name": "Clean & Clear",
+        "product_name": "Foaming Face Wash",
+        "description": "3x150 ml (Multipack)",
+        "discount_percentage": "35",
+        "new_price": "399.73",
+        "old_price": "615",
+        "sale": "Add"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1209962_5-fogg-fragrance-body-spray-marco.jpg?tr=w-1920,q=80",
+        "company_name": "Fogg",
+        "product_name": "Fragrance Body Spray - Marco",
+        "description": "2x150 ml Multipack",
+        "discount_percentage": "23",
+        "new_price": "424",
+        "old_price": "550",
+        "sale": "Add"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1220354_3-engage-deodorant-for-women-floral-zest-citrus-floral-skin-friendly.jpg?tr=w-1920,q=80",
+        "company_name": "Engage",
+        "product_name": "Deodorant For Women - Floral Zest, Citrus & Floral, Skin Friendly",
+        "description": "2x150 ml - (Multipack)",
+        "new_price": "291",
+        "old_price": "498",
+        "sale": "Add"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1211881_1-bb-combo-peppy-70g-peppy-cheeseballs-70g-piknik-70g-senorpepito-j-65g.jpg?tr=w-1920,q=80",
+        "company_name": "bb Combo",
+        "product_name": "Peppy 60g + Peppy Cheeseballs 60g + Piknik 60g+ Senorpepito J 60g",
+        "combo_items": "Combo - 4 Items",
+        "new_price": "138",
+        "old_price": "240",
+        "discount_percentage": "43",
+        "sale": "Add"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1212406_1-gits-gulab-jamun-ready-mix.jpg?tr=w-1920,q=80",
+        "company_name": "Gits",
+        "product_name": "Gulab Jamun - Ready Mix",
+        "description": "3 x 200 g Multipack",
+        "discount_percentage": "11",
+        "new_price": "279",
+        "old_price": "315",
+        "sale": "Add"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1211879_1-peppy-tomato-disc-70-g-cheese-balls-70-g.jpg?tr=w-1920,q=80",
+        "company_name": "PEPPY",
+        "product_name": "Tomato Disc 60 g + Cheese Balls 60 g",
+        "combo_items": "Combo - 2 Items",
+        "new_price": "72",
+        "old_price": "120",
+        "sale": "Add"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1208983_1-dabur-hommade-coconut-milk.jpg?tr=w-1920,q=80",
+        "company_name": "Dabur Hommade",
+        "product_name": "Coconut Milk",
+        "description": "2x200 ml Multipack",
+        "discount": "15 OFF",
+        "new_price": "135.24",
+        "old_price": "150",
+        "sale": "Add"
+    },
+    {
+        "img": "https://www.bigbasket.com/media/uploads/p/m/1214521_2-dabur-gulabari-premium-rose-water-100-natural.jpg?tr=w-1920,q=80",
+        "company_name": "Dabur Gulabari",
+        "product_name": "Premium Rose Water",
+        "description": "2x250 ml (Multipack)",
+        "discount_percentage": "38",
+        "new_price": "108.89",
+        "old_price": "176",
+        "sale": "Add"
+    }
+]
